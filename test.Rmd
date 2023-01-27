@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown test the git connection
+## R Markdown test the git connection ————failed 1st time
 
 ```{r cars}
 
